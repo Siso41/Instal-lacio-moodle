@@ -107,7 +107,18 @@ I si introdiïm al buscador de la màquina amfitriona la IP del servidor i moodl
 
 ![image](https://user-images.githubusercontent.com/114423111/204323058-dc5b1a42-7680-41cc-8ba5-3ad2409adda9.png)
 
+Ara si sel·leccionem un idioma i li donem a "next" ens sortira aquests errors:
 
+![image](https://user-images.githubusercontent.com/114423111/204330870-c4f7f53e-6796-4982-a505-fe717f37c8aa.png)
+
+Que els solucinarem instal·lant les extensions que ens demana de la següent forma:
+
+Instal·lar PHP CURL:
+![image](https://user-images.githubusercontent.com/114423111/204331311-3a110acf-aa37-4eac-96c2-42045273d70b.png)
+Parent directory (/var/www) is not writeable. Data directory (/var/www/moodledata) cannot be created by the installer.
+Instal·lar PHP Zip:
+
+![image](https://user-images.githubusercontent.com/114423111/204331499-4d909891-4b20-40f8-a081-33d8789cf208.png)
 
 
 
