@@ -115,10 +115,16 @@ Que els solucinarem instal·lant les extensions que ens demana de la següent fo
 
 Instal·lar PHP CURL:
 ![image](https://user-images.githubusercontent.com/114423111/204331311-3a110acf-aa37-4eac-96c2-42045273d70b.png)
+
 Parent directory (/var/www) is not writeable. Data directory (/var/www/moodledata) cannot be created by the installer.
 Instal·lar PHP Zip:
 
 ![image](https://user-images.githubusercontent.com/114423111/204331499-4d909891-4b20-40f8-a081-33d8789cf208.png)
+
+A la següent finestra hem de ficar la carpeta que nosaltres hem creat anteriorment, si no la posem, no funcionarà.
+
+![image](https://user-images.githubusercontent.com/114423111/204349005-80ddb08e-fa5f-49fc-a29d-87110a082fa5.png)
+
 
 
 
