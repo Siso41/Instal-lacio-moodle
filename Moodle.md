@@ -125,8 +125,25 @@ A la següent finestra hem de ficar la carpeta que nosaltres hem creat anteriorm
 
 ![image](https://user-images.githubusercontent.com/114423111/204349005-80ddb08e-fa5f-49fc-a29d-87110a082fa5.png)
 
+Si passem a la següent finestra ens sortirà per configurar les credencials del usuari administrador i la informació sobre l'ubicaió.
 
+![image](https://user-images.githubusercontent.com/114423111/205711386-896a84df-7267-47c5-95dd-0737a938ccb9.png)
 
+I a la mateixa finestra ens sortirà el nom que volem ficar-li al nostre moodle:
+
+![Selecció_389](https://user-images.githubusercontent.com/114423111/205711578-d94957b2-790e-4a05-aa7b-34bd01732e63.png)
+
+I també ens sortirà per configurar els correus de suport i el correu de "correo saliente".
+
+![Selecció_390](https://user-images.githubusercontent.com/114423111/205712576-1feaa28f-985b-46f5-b101-874cb4117361.png)
+
+Un cop amb tot això fet la instal·lació ja estarà completada.
+
+## Configuració moodle
+
+El primer a fer és crear les categories dintre del moodle, per fer-ho ens dirigirem a la següent pàgina d'aquesta manera:
+
+![Selecció_398](https://user-images.githubusercontent.com/114423111/205714299-433b9f9d-c1c3-47dd-874a-a61fe304227d.png)
 
 
 
