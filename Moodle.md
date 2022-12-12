@@ -145,6 +145,16 @@ El primer a fer és crear les categories dintre del moodle, per fer-ho ens dirig
 
 ![Selecció_398](https://user-images.githubusercontent.com/114423111/205714299-433b9f9d-c1c3-47dd-874a-a61fe304227d.png)
 
+Un cop dintre, si volem crear una categoria hem de clicar a "Ceate new category".(En aquesta imatge ja havia creat les categories).
+
+![image](https://user-images.githubusercontent.com/114423111/207116437-a2e1d247-ff73-4a06-a220-884b7055f5f4.png)
+
+Per crear la categoria hem de selccionar si volem que sigui una categoria principal o si volem que sigui una subcategoria. Per fer-ho sel·leccionem a "parent category" la categoría mare. En el meu cas he seleccionat "Top" perquè és la primera categoría que creo.
+
+![image](https://user-images.githubusercontent.com/114423111/207117177-90e7c818-0f2b-4da2-a281-17800e4e6c78.png)
+
+
+
 
 
 
