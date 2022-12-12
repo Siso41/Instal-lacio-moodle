@@ -153,8 +153,17 @@ Per crear la categoria hem de selccionar si volem que sigui una categoria princi
 
 ![image](https://user-images.githubusercontent.com/114423111/207117177-90e7c818-0f2b-4da2-a281-17800e4e6c78.png)
 
+Per crear totes les altres subcategoríes ho hem de fer de la mateixa forma, sel·lecionant la categoría mare en cada cas.
 
+Finalment aquestes son totes les categoríes creades.
 
+![image](https://user-images.githubusercontent.com/114423111/207121709-f8ce1900-9e0a-41ce-a95e-21e8d8962632.png)
 
+Per crear els cursos li donem a "create new course" a la mateixa finestra que ho hem fet amb les categoríes:
 
+![image](https://user-images.githubusercontent.com/114423111/207120692-5b5af795-34ea-4f99-8b66-97649b5f605f.png)
+
+Per configurar el curs hem de posar-li un nom i una abreviació. També hem de sel·lecionar la categoría que pertany.
+
+![image](https://user-images.githubusercontent.com/114423111/207121421-f3d63c14-4243-4146-9d49-850f1a9f30da.png)
 
