@@ -127,7 +127,8 @@ A la següent finestra hem de ficar la carpeta que nosaltres hem creat anteriorm
 
 Si passem a la següent finestra ens sortirà per configurar les credencials del usuari administrador i la informació sobre l'ubicaió.
 
-![image](https://user-images.githubusercontent.com/114423111/205711386-896a84df-7267-47c5-95dd-0737a938ccb9.png)
+![Selecció_388](https://user-images.githubusercontent.com/114423111/208475365-1e9fe3f9-a647-42af-88b1-5967729a41ad.png)
+
 
 I a la mateixa finestra ens sortirà el nom que volem ficar-li al nostre moodle:
 
